@@ -20,11 +20,11 @@ This dashboard provides a detailed analysis of Dunkin' Donuts branches across Ri
 
 • Customer Feedback (Review Sentiment): Qualitative reviews highlight areas for improvement, specifically regarding:  
 
-• Cleanliness: Issues reported with dusty floors and non-sanitized tables.  
+-Cleanliness: Issues reported with dusty floors and non-sanitized tables.  
 
-• Service Accuracy: Instances of customers being charged for incorrect sizes (e.g., being given a medium when ordering a small).  
+-Service Accuracy: Instances of customers being charged for incorrect sizes (e.g., being given a medium when ordering a small).  
 
-• Facility Maintenance: Reports of poorly maintained restrooms.  
+-Facility Maintenance: Reports of poorly maintained restrooms.  
 
 ## 📊 Visualizations Included
 
