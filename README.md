@@ -36,8 +36,13 @@ This dashboard provides a detailed analysis of Dunkin' Donuts branches across Ri
 
 4. Branch Selector: A filter to view specific branch data by address. 
 
+
 ## 🛠 Tech Stack
 
 • Data Visualization: Power BI.
 
 • Data Source: https://www.kaggle.com/datasets/mohammedalsubaie/dunkin-branches-in-riyadh
+
+<img width="1630" height="944" alt="Dunkin" src="https://github.com/user-attachments/assets/a3d936f6-ddc1-4b8c-9123-0aca09b56690" />
+
+
